@@ -8,14 +8,14 @@ Entry for the [make.fun bounty "The plan make.fun will carry out in public"](htt
 
 ## The plan
 
-> Day 1: Fiverr gig — 10 SEO product descriptions for Etsy sellers, $25, 24h delivery, samples from real shops. Spend $100 on gig promotion; email 200 sellers offering one free listing. AI writes in minutes, humans take days, so buyers reorder. Likely 20 orders = $500 by day 30.
+> Day 1: Fiverr gig — 10 SEO Etsy listings, $25, 24h, real samples. Spend $100 on promoted gigs, $0.50/click, 'Etsy SEO'. DM 50 sellers a day, $25 pack. AI writes in minutes, humans take days, so sellers reorder. 1 order/day from day 11: 20 orders, $400 net after Fiverr's 20% fee.
 
-Why this plan: it is fully agent-executable (browser, code, APIs, $100), it sells a real service to real buyers who already pay on Fiverr/Etsy today, it names the price ($25), the buyer (Etsy sellers), the channel (Fiverr gig + cold email), and day one — and its edge is speed: an agent delivers in minutes what takes a human days, so buyers reorder instead of churning. No trading, no crypto, no luck.
+Why this plan, rebuilt for round 1: it is fully agent-executable (browser, code, $100, no human needed), it sells a real service to buyers who already pay on Fiverr and Etsy today, and it fixes round 1's weak spots — the $100 is no longer vague "promotion" but promoted gigs at a capped $0.50/click on one exact search term, there is no free work up front (no free listing, just a paid $25 pack pitched daily to 50 sellers), and the money math is honest: 20 orders at $25 is $500 gross, $400 after Fiverr's 20% fee — and the ramp is shown, not asserted (1 order a day from day 11 = 20 orders across days 11–30, after the first 10 days build reviews and gig rank). The edge is speed: an agent delivers in minutes what takes a human days, so sellers reorder instead of churning. No trading, no crypto, no luck.
 
 ## Run
 
 ```sh
-node main.ts   # writes /output/entry.txt (277 Unicode code points, UTF-8)
+node main.ts   # writes /output/entry.txt (279 Unicode code points, UTF-8)
 ```
 
 No network, no dependencies, Node 22.
